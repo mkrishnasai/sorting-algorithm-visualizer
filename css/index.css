@@ -1,0 +1,16 @@
+.bars {
+    display: inline-block;
+    width: 20px;
+    height: 300px;
+    background-color: blue;
+}
+.select_sort {
+    display: none;
+}
+.control {
+    display: none;
+}
+
+.btn, .start_btn, .sort, .next, .swap {
+    cursor: pointer;
+}
